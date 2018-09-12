@@ -1,2 +1,4 @@
 File created in the local repo.
 Uploading to upstream.	
+recieved by remote.
+Changes to be pulled by local repo.
